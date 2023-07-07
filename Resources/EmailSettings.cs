@@ -5,7 +5,7 @@ namespace Resources
 {
     public static class EmailSettings
     {
-        public const string Host = "smtp.gmail.com";
+        public const string Host = "";
         public const int Port = 587;
         public const string Username = "";
         public const string Password = "";
